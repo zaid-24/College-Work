@@ -27,3 +27,33 @@ Deep Learning Network, Sensors-2023</i>
 <br><br>
 The CNN model architecture uploaded on the repository is designed using <a src="https://www.tensorflow.org/">Tensorflow</a> and is trained on
 <br>the dataset: <a src = "https://ieee-dataport.org/documents/diat-%CE%BCradhar-radar-micro-doppler-signature-dataset-human-suspicious-activity-recognition"> <b>DIAT-μ RadHAR (Micro-Doppler Signature Dataset) </b> </a> available at <a src="https://ieee-dataport.org/"> <b>IEEE Dataport </b> </a> 
+
+
+<h2>Details of Activity Recognition</h2>
+<p>This project focuses on real-time activity recognition using computer vision and deep learning techniques. It utilizes the YOLO (You Only Look Once) object detection model to identify and classify objects of interest in a video stream. The primary goal is to detect suspicious activities by recognising specific objects within the video frames.</p>
+
+<p>The project uses YOLO object detection for real-time video analysis. It has predefined classes for alerting based on the objects detected in the video frames:</p>
+
+<ul>
+  <li>People</li>
+  <li>Car</li>
+  <li>Truck</li>
+  <li>Backpack</li>
+  <li>Suspicious handheld device</li>
+  <li>Handbag</li>
+  <li>Suitcase</li>
+</ul>
+
+<p>The code performs the following steps:</p>
+
+<ul>
+    <li>Initializes the YOLO model with the provided weights.</li>
+    <li>Opens the video file.</li>
+    <li>Processes each frame of the video.</li>
+    <li>Detects and classifies objects in the frames.</li>
+    <li>Alerts if any alerting classes are detected in the frame, displaying the reasons for the alert in the image.</li>
+    <li>Continues processing frames until the video ends.</li>
+  </ul>
+
+  <p>The code displays an "ALERT!" message on the video frame if any alerting objects are detected. It also lists the reasons for the alert, indicating which objects triggered the alert.</p>
+  
