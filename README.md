@@ -15,7 +15,7 @@ The radar signals are first processed using a traditional micro-doppler radar si
 </UL>
 
 Detailed CNN Architecture for suspicious activity classification using μ-Doppler Radar Images:
-<img src = "Radar Image Processing/images/classification model">
+<img src = "https://github.com/zaid-24/College-Work/blob/main/Radar%20Image%20Processing/images/classification%20model.png">
 <i>Source: S.V. Dhavale et. al, Application of DNN for radar micro-doppler signature-based human
 suspicious activity recognition, Pattern Recognition Letters-2022</i>
 
