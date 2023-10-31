@@ -24,6 +24,6 @@ suspicious activity recognition, Pattern Recognition Letters-2022</i>
 <img src = "https://github.com/zaid-24/College-Work/blob/main/Radar%20Image%20Processing/images/pipeline.png">
 <i>Source: Zhaoyue Wang, Chao Yang et. al, Radar Human Activity Recognition with an Attention-Based
 Deep Learning Network, Sensors-2023</i>
-
+<br>
 The CNN model architecture uploaded on the repository is designed using <a src="https://www.tensorflow.org/">Tensorflow</a> and is trained on
-<br><br> the dataset: <a src = "https://ieee-dataport.org/documents/diat-%CE%BCradhar-radar-micro-doppler-signature-dataset-human-suspicious-activity-recognition"> <b>DIAT-μ RadHAR (Micro-Doppler Signature Dataset) </b> </a> available at <a src="https://ieee-dataport.org/"> <b>IEEE Dataport </b> </a> 
+<br>the dataset: <a src = "https://ieee-dataport.org/documents/diat-%CE%BCradhar-radar-micro-doppler-signature-dataset-human-suspicious-activity-recognition"> <b>DIAT-μ RadHAR (Micro-Doppler Signature Dataset) </b> </a> available at <a src="https://ieee-dataport.org/"> <b>IEEE Dataport </b> </a> 
