@@ -4,8 +4,7 @@
 
 <h2> Details of Radar Image Processing </h2>
 The radar signals are first processed using a traditional micro-doppler radar signal processing pipeline and then passed through an 
-<br>LSTM supported CNN model to detect and classify the Human Activities. Human Activity Recoginition and Classification is done using a
-<br>VGG19 Model. The CNN model classifies the activities into:
+<br>LSTM supported CNN model to detect and classify the Human Activities. Human Activity Recoginition and Classification is done using a VGG19 Model. The CNN model classifies the activities into:
 <UL>
   <li>Crawling</li>
   <li>Jumping (includes the possibility of weapons)</li>
