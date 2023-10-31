@@ -3,7 +3,7 @@
 <h2>Team: Slow Code Transform</h2>
 <h2>Indian Institute of Technology Kharagpur</h2>
 
-<h2> Details of Radar Image Processing </h2>h2>
+<h2> Details of Radar Image Processing </h2>
 The radar signals are first processed using a traditional micro-doppler radar signal processing pipeline and then passed through an 
 <br>LSTM supported CNN model to detect and classify the Human Activities. Human Activity Recoginition and Classification is done using a
 <br>VGG19 Model. The CNN model classifies the activities into:
