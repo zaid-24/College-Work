@@ -1,6 +1,6 @@
-<center><h1>Robust Human Target Detection and Acquisition</h1></center>
-<center><h2>Team: Slow Code Transform</h2></center>
-<center><h2>Indian Institute of Technology Kharagpur</h2> </center>
+<h1><center>Robust Human Target Detection and Acquisition</center></h1>
+<h2><center>Team: Slow Code Transform</center></h2>
+<h2><center>Indian Institute of Technology Kharagpur</center></h2>
 
 <h2> Details of Radar Image Processing </h2>
 The radar signals are first processed using a traditional micro-doppler radar signal processing pipeline and then passed through an 
