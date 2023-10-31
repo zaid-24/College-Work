@@ -21,7 +21,7 @@ suspicious activity recognition, Pattern Recognition Letters-2022</i>
 
 <br> This CNN Architecture is a part of a bigger network:
 
-<img src = "[Radar Image Processing/images/pipeline](https://github.com/zaid-24/College-Work/blob/main/Radar%20Image%20Processing/images/pipeline.png)">
+<img src = "https://github.com/zaid-24/College-Work/blob/main/Radar%20Image%20Processing/images/pipeline.png">
 <i>Source: Zhaoyue Wang, Chao Yang et. al, Radar Human Activity Recognition with an Attention-Based
 Deep Learning Network, Sensors-2023</i>
 
